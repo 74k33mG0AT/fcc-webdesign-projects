@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Video Compilation Page</title>
+</head>
+
+<body>
+  <main>
+    <h1>J-Pop Video Compilation</h1>
+    <p>This page has some J-Pop songs used in anime.</p>
+    <section>
+      <h2>One Piece Opening 13:"One Day"</h2>
+      <p>This opening is used during the arc where Luffy has his reunion with Ace.</p>
+      <iframe
+        width="560"
+        height="315"
+        src="https://www.youtube.com/watch?v=SBIkGFsMfFw&list=RDSBIkGFsMfFw&index=1&pp=8AUB"
+        title="One Day"
+      >
+      </iframe>
+    </section>
+    <section>  
+      <h2>MHA Season 7 Opening 1:"Tagatame"</h2>
+      <p>This is used for the first part of Season 7, the start of the final war.</p>
+      <iframe
+      width="560"
+      height="315"
+      src="https://www.youtube.com/watch?v=-YYXLo-tZsc&list=RDSBIkGFsMfFw&index=4"
+      title="Tagatame">
+      </iframe>
+    </section>
+    <section>
+      <h2>Naruto Shippuden Opening 3:"Blue Bird"</h2>
+      <p>Considered by many Naruto fans to be one of the best openings in the whole series.</p>
+      <iframe
+      width="560"
+      height="315"
+      src="https://www.youtube.com/watch?v=-YYXLo-tZsc&list=RDSBIkGFsMfFw&index=4"
+      title="Blue Bird">
+      </iframe>
+    </section>
+  </main>    
+
+</body>
+
+</html>
